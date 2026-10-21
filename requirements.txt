@@ -25,9 +25,8 @@ pyjokes
 PyMuPDF
 markdown
 wikipedia
-opencv-python-headless
 schedule
-whisper
+openai-whisper
 sounddevice
 scipy
 googlesearch-python
