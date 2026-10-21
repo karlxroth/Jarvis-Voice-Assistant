@@ -39,10 +39,10 @@ face_recognition
 black
 flask
 # Dev/test
-dev: pytest>=6.0
+pytest>=6.0
 pytest-cov>=2.0
 flake8>=3.8
 mypy>=0.800
 # Docs
-docs: sphinx>=4.0
+sphinx>=4.0
 sphinx-rtd-theme>=1.0
